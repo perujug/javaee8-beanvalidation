@@ -1,3 +1,4 @@
 = [Adopt-a-JSR] Bean Validation
 
 * http://download.oracle.com/otndocs/jcp/bean_validation-2_0_0_Alpha1-edr-spec/index.html[Specification]
+* https://docs.jboss.org/hibernate/validator/6.0/reference/en-US/html_single/[Hibernate Validator docs]
